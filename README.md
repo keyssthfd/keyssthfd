@@ -1,4 +1,4 @@
-## Oiii, eu sou a Kethellen Sthefanny! 👋  
+## Oiii, eu sou a Key! 👋  
 Estudante de Análise e Desenvolvimento de Sistemas em transição de carreira para tecnologia.  
 
 <div style="display: inline_block"><br>
