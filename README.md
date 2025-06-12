@@ -16,8 +16,7 @@ Minha experiência com gestão, atendimento ao público e marketing me mostrou o
 
 ### 🤝 Vamos nos conectar?
 [![LinkedIn](https://img.shields.io/badge/-Kethellen%20Sthefanny-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kethellen-sthefanny/)  
-📫 Email: seuemail@email.com *(coloca o seu aqui se quiser)*
-
+📫 Email: ksthefannyd@gmail.com 
 ---
 
 > 🌱 *Em construção, mas com coragem e intenção.*
