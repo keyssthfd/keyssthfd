@@ -1,18 +1,19 @@
-# Oi, eu sou a Key! 👩🏾‍💻🌱
+## Oiii, eu sou a Kethellen Sthefanny! 👋  
+Estudante de Análise e Desenvolvimento de Sistemas em transição de carreira para tecnologia.  
 
-Sou estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento web, dados e Inteligência Artificial. Estou em constante evolução, buscando transformar ideias em soluções que facilitem a vida das pessoas — especialmente aquelas que muitas vezes são invisibilizadas pela tecnologia.
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+</div>
 
-Atualmente estudo linguagens como **JavaScript**, **Python** e **SQL**, e tenho me aprofundado em **IA e Machine Learning** com interesse especial por projetos com impacto social e acessibilidade.
+##
 
-
-### 🤝 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/-Kethellen%20Sthefanny-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kethellen-sthefanny/)  
-📫 Email: ksthefannyd@gmail.com
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-
-> 🌱 *Em construção, mas com coragem e intenção.*
+<div> 
+  <a href="https://www.linkedin.com/in/kethellen-sthefanny/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ksthefannyd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/keyssthfd" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</div>
