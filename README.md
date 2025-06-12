@@ -1,4 +1,4 @@
-## Oiii, eu sou a Key! 👋  
+## Oiii, eu sou a Key!  <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 Estudante de Análise e Desenvolvimento de Sistemas em transição de carreira para tecnologia.  
 
 <div style="display: inline_block"><br>
